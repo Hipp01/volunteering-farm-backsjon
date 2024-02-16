@@ -1,13 +1,16 @@
 <template>
-  </template>
+    <div>
+      <h1>Introduction</h1>
+    </div>
+</template>
   
-  <script lang="ts">
+<script lang="ts">
   import { defineComponent } from 'vue';
   
   export default defineComponent({
   });
-  </script>
+</script>
   
-  <style scoped>
-  </style>
+<style scoped>
+</style>
   
