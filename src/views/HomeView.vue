@@ -1,5 +1,6 @@
 <template>
     <div>
+        <Navbar />
         <div class="canvas">
             <div class="stars" v-for="n in 3" :key="n">
                 <div class="star"></div>
@@ -27,6 +28,7 @@
 </template>
   
 <script>
+    import Navbar from '@/components/Navbar.vue';
     import HeaderView from '@/components/HeaderView.vue';
     import Introduction from '@/components/Introduction.vue';
     import Experience from '@/components/Experience.vue';
@@ -36,6 +38,7 @@
   
     export default {
         components: {
+            Navbar,
             HeaderView,
             Introduction,
             Experience,
