@@ -1,6 +1,6 @@
 <template>
     <div>
-        <h2>Contact</h2>
+        <h2 class="text-center">Contact</h2>
         <p>Vous pouvez me contacter par email à l'adresse suivante : 
             <a href="mailto:hippolarzul@gmail.com">hippolarzul@gmail.com</a>
         </p>
