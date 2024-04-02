@@ -4,11 +4,13 @@ import router from './router';
 import 'bootstrap/dist/css/bootstrap.css';
 import 'bootstrap-vue/dist/bootstrap-vue.css';
 import BootstrapVue3 from 'bootstrap-vue-3';
+import { BootstrapIconsPlugin } from "bootstrap-icons-vue";
 
 
 const app = createApp(App);
 
 app.use(router);
 app.use(BootstrapVue3);
+app.use(BootstrapIconsPlugin);
 
 app.mount('#app');
