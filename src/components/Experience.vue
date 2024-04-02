@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div id="Experience">
     <h1 class="text-center">Expérience</h1>
     <div>
       <b-container class="testimonials mt-5">
@@ -7,12 +7,12 @@
           <b-col cols="1"></b-col>
           <b-col cols="4">
             <div id="carouselIndicators" class="carousel slide">
-              <div class="carousel-inner">
+              <div class="carousel-inner same-height">
                 <div class="carousel-item active">
-                  <img src="../assets/images/farm/1.jpg" class="d-block mx-auto img-fluid same-height">
+                  <img src="../assets/images/farm/2.jpg" class="d-block mx-auto img-fluid same-height">
                 </div>
                 <div class="carousel-item">
-                  <img src="../assets/images/farm/2.jpg" class="d-block mx-auto img-fluid same-height">
+                  <img src="../assets/images/farm/1.jpg" class="d-block mx-auto img-fluid same-height">
                 </div>
                 <div class="carousel-item">
                   <img src="../assets/images/farm/3.jpg" class="d-block mx-auto img-fluid same-height">

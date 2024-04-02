@@ -1,7 +1,9 @@
 <template>
-    <footer>
-        <p>Hippolyte Larzul 2024</p>
-    </footer>
+    <div  id="FooterView">
+        <footer>
+            <p>Hippolyte Larzul 2024</p>
+        </footer>
+    </div>
   </template>
   
   <script lang="ts">
