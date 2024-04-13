@@ -1,6 +1,6 @@
 <template>
   <div id="Experience">
-    <h1 class="text-center">Expérience</h1>
+    <h1 class="text-center">{{ $t("Text.Titles.experience") }}</h1>
     <div>
       <b-container class="testimonials mt-5">
         <b-row>
@@ -92,9 +92,7 @@
             </div>
           </b-col>
           <b-col>
-            <p class="mx-2 text-center">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum placerat ante sed magna ullamcorper, in varius dolor suscipit. Etiam semper velit non augue facilisis, in facilisis diam semper. Quisque sem nulla, interdum vitae euismod eget, aliquam et dolor. Etiam arcu quam, dapibus vel elit sit amet, fermentum volutpat sem. Quisque scelerisque id neque a rutrum. Ut ac ante ante. Vestibulum at elit sit amet lacus volutpat porttitor. Nulla pellentesque ipsum nisl, non varius sem dictum id. Praesent nec enim urna. Donec eu risus ac ante dictum commodo ac vel mi. Etiam orci nibh, congue sed neque quis, dapibus laoreet ante. Fusce ex arcu, convallis sed sapien ac, placerat pulvinar felis. Phasellus dignissim ligula magna, ac pulvinar risus lacinia venenatis.
-            </p>
+            <p class="mx-2">{{ $t("Text.experience") }}</p>
           </b-col>
         </b-row>
       </b-container>
@@ -103,10 +101,6 @@
 </template>
 
 <script lang="ts">
-import { defineComponent } from 'vue';
-
-export default defineComponent({
-});
 </script>
 
 <style scoped>
@@ -114,5 +108,8 @@ export default defineComponent({
   height: 500px; 
   object-fit: cover;
   border-radius: 5%;
+}
+p.mx-2 {
+  white-space: pre-wrap;
 }
 </style>

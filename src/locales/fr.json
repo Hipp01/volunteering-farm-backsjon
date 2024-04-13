@@ -1,0 +1,28 @@
+{
+    "Text": {
+      "Titles": {
+        "main": "Volontariat Ferme Backsjön",
+        "menu": "Menu",
+        "accueil": "Accueil",
+        "introduction": "Introduction",
+        "experience": "Expérience",
+        "testimonials": "Témoignages",
+        "contact": "Contact"
+      },
+      "introduction": "Le volontariat à la ferme Backsjön permet à Carolina et Hasse d’avoir une aide dans la gestion de leur ferme, de leurs projets et de leurs activités. En retour, les voyageurs ont l'opportunité de découvrir la vie suédoise, d’en apprendre davantage sur les animaux (avec leurs 32 Huskies, 5 ânes et poules) et la nature, tout en vivant des expériences mémorables ! En hiver, la ferme propose des activités incontournables telles que le chien de traîneau, la pêche sur glace et les balades en motoneige. Au mois de mai-juin, la ferme est le lieu du festival des tulipes, offrant l'opportunité unique d'observer la culture de ces fleurs en Suède, un défi fascinant à découvrir de ses propres yeux ! Ce sont des expériences à ne pas manquer lors d'un séjour dans ce joli pays !",
+      "experience": "Nous sommes arrivés chez Carolina et Hasse le 11 décembre, alors qu'il y avait déjà 30 centimètres de neige. La vue avec le lac gelé et le lever de soleil était tout simplement magnifique.\nNotre routine commençait généralement avec un café vers 9h, où nous discutions des plans de la journée. Ensuite, nous devions sortir les ânes dans leur champ, les nourrir, nettoyer l'étable, et nourrir les poules. Si des touristes étaient prévus au planning, nous préparions les traîneaux, nettoyions les cages des chiens et aidions à la préparation du traîneau avant le départ. Avant le début de la saison, nous devions entraîner les chiens à courir, donc tous les matins, nous faisions du chien de traîneau. C'était une routine agréable, malgré des températures pouvant descendre jusqu'à -33°C, nécessitant des habits bien chauds ! Lorsqu'il n'y avait pas de touristes, nous nous occupions de la rénovation d'une maison destinée à être louée lors des séjours à la ferme. C'était génial de voir le résultat de notre travail. Nous avons également décoré le café d'hiver avec les décorations de Noël. Nos journées se terminaient généralement vers 16h30.\nLes week-ends étaient nos jours de repos, nous en profitions pour faire des balades avec les chiens, du ski de fond ou encore des balades en raquettes.\nNous ouvrions le café d'hiver certains week-ends pour accueillir les amateurs de motoneige, et autres touristes, où ils pouvaient déguster un café, savourer un tunnbrödsrulle (une spécialité de la ferme : un genre de wrap avec du fromage et de la saucisse de renne, miam !), ou simplement siroter un verre de glögg (vin chaud, boisson traditionnelle nordique).\nCes expériences nous ont permis d'acquérir une multitude de connaissances, tant sur le plan pratique que personnel. La ferme Backsjön est un endroit où l'on se sent bien. Carolina et Hasse sont des hôtes très accueillants, toujours prêts à nous apporter leur aide et à partager de bons moments tous ensembles.",
+      "Testimonials": {
+        "Helo": "Après l'obtention de mon master en septembre 2023, j'ai décidé de partir à l'aventure pour découvrir un nouveau pays. Passionnée par les animaux, cette expérience m'a permis d'apprendre énormément, en explorant la nature et en rencontrant de nouvelles personnes. J'ai adoré cette aventure et la recommande à tous.",
+        "Hippo": "Cette expérience avec les chiens de traîneau m'a transporté dans un monde d'aventure et de découvertes. Une expérience unique, entre complicité avec les animaux et exploration des paysages nordiques, à recommander à tous les passionnés d'évasion.",
+        "Linard": "lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+      },
+      "contact": "Vous pouvez me contacter par email à l'adresse suivante : "
+    },
+    "Language": {
+        "fr" : "Français",
+        "en" : "Anglais",
+        "sv" : "Suédois",
+        "de" : "Allemand",
+        "nl" : "Néerlandais"
+    }
+}

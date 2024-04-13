@@ -1,0 +1,28 @@
+{
+  "Text": {
+      "Titles": {
+          "main": "Volontärarbete på Backsjön Gård",
+          "menu": "Meny",
+          "accueil": "Startsida",
+          "introduction": "Introduktion",
+          "experience": "Erfarenhet",
+          "testimonials": "Vittnesmål",
+          "contact": "Kontakt"
+      },
+      "introduction": "Volontärarbete på Backsjön Gård ger Carolina och Hasse hjälp med att hantera sin gård, projekt och aktiviteter. Som tack får resenärer möjlighet att uppleva svenskt liv, lära sig om djur (med sina 32 Huskies, 5 åsnor och höns) och natur samtidigt som de lever minnesvärda upplevelser! På vintern erbjuder gården viktiga aktiviteter som hundslädåkning, isfiske och snöskoterkörning. I maj-juni arrangerar gården Tulpanfestivalen, vilket ger en unik möjlighet att observera tulpanodling i Sverige, en fascinerande utmaning att se med egna ögon! Dessa är upplevelser som inte får missas under en vistelse i detta vackra land!",
+      "experience": "Vi kom till Carolina och Hasse den 11 december, när det redan låg 30 centimeter snö. Utsikten med den frusna sjön och soluppgången var helt enkelt fantastisk.\nVår rutin började vanligtvis med kaffe runt 9 på morgonen, där vi diskuterade dagens planer. Sedan var vi tvungna att ta ut åsnorna på deras bete, mata dem, städa stallet och mata hönsen. Om det var planerat för turister förberedde vi slädarna, städade hundburen och hjälpte till med att förbereda släden innan avfärd. Innan säsongen började var vi tvungna att träna hundarna att springa, så varje morgon åkte vi hundsläde. Det var en trevlig rutin, trots att temperaturen kunde sjunka till -33°C, vilket krävde varma kläder! När det inte var några turister arbetade vi med att renovera ett hus som var avsett att hyras ut under gårdens vistelser. Det var fantastiskt att se resultatet av vårt arbete. Vi dekorerade också vinterkaféet med juldekorationer. Våra dagar avslutades vanligtvis runt 16:30.\nHelgerna var våra vilodagar, då njöt vi av promenader med hundarna, längdskidåkning eller snöskovandring.\nPå vissa helger öppnade vi vinterkaféet för att välkomna snöskoterentusiaster och andra turister, där de kunde njuta av kaffe, smaka på en tunnbrödsrulle (en gårdsspecialitet: en slags wrap med ost och renkorv, mums!), eller helt enkelt sippa på en glas glögg (glögg, en traditionell nordisk dryck).\nDessa upplevelser gjorde det möjligt för oss att skaffa oss en mängd kunskaper, både praktiska och personliga. Backsjön Gård är en plats där man trivs. Carolina och Hasse är mycket välkomnande värdar, alltid redo att hjälpa oss och dela trevliga stunder tillsammans.",
+      "Testimonials": {
+          "Helo": "Efter att ha avslutat min masterexamen i september 2023 bestämde jag mig för att ge mig ut på ett äventyr för att upptäcka ett nytt land. Passionerad av djur har denna erfarenhet lärt mig mycket genom att utforska naturen och träffa nya människor. Jag älskade detta äventyr och rekommenderar det till alla.",
+          "Hippo": "Denna erfarenhet med hundsläde tog mig till en värld av äventyr och upptäckter. En unik upplevelse, mellan samförstånd med djur och utforskning av nordiska landskap, att rekommendera till alla älskare av äventyr.",
+          "Linard": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+      },
+      "contact": "Du kan kontakta mig via e-post på följande adress : "
+  },
+  "Language": {
+      "fr" : "Franska",
+      "en" : "Engelska",
+      "sv" : "Svenska",
+      "de" : "Tyska",
+      "nl" : "Holländska"
+  }
+}

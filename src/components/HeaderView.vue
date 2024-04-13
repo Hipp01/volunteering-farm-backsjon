@@ -4,7 +4,7 @@
       <!-- <router-link to="/">Accueil</router-link> -->
       <h1 class="text-center" style="color:#9EE4D9">
         <img src="@\assets\logo.svg" alt="Logo" class="logo" />
-          Volontariat ferme Backsjön 
+        {{ $t("Text.Titles.main") }}
         <img src="@\assets\logo.svg" alt="Logo" class="logo" />
       </h1>
       <p class="my-4 text-center">

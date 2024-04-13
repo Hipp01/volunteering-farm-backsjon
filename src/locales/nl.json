@@ -1,0 +1,28 @@
+{
+  "Text": {
+      "Titles": {
+          "main": "Vrijwilligerswerk op de Backsjön Boerderij",
+          "menu": "Menu",
+          "accueil": "Startpagina",
+          "introduction": "Introductie",
+          "experience": "Ervaring",
+          "testimonials": "Getuigenissen",
+          "contact": "Contact"
+      },
+      "introduction": "Vrijwilligerswerk op de Backsjön Boerderij stelt Carolina en Hasse in staat om hulp te krijgen bij het beheren van hun boerderij, projecten en activiteiten. In ruil daarvoor krijgen reizigers de kans om het Zweedse leven te ervaren, meer te leren over dieren (met hun 32 Huskies, 5 ezels en kippen) en de natuur, terwijl ze gedenkwaardige ervaringen opdoen! In de winter biedt de boerderij essentiële activiteiten zoals hondensleeën, ijsvissen en sneeuwscooteren. In mei-juni organiseert de boerderij het Tulpenfestival, waarbij een unieke kans wordt geboden om tulpen te zien groeien in Zweden, een fascinerende uitdaging om met eigen ogen te zien! Dit zijn ervaringen die je niet mag missen tijdens een verblijf in dit prachtige land!",
+      "experience": "We kwamen aan bij Carolina en Hasse's op 11 december, met al 30 centimeter sneeuw. Het uitzicht met het bevroren meer en de zonsopgang was gewoonweg prachtig.\nOnze routine begon meestal met koffie rond 9 uur, waar we de plannen voor de dag bespraken. Vervolgens moesten we de ezels naar hun veld brengen, ze voeren, de stal schoonmaken en de kippen voeren. Als er toeristen waren ingepland, bereidden we de sledes voor, maakten we de hondenkooien schoon en hielpen we bij het klaarmaken van de slee voor vertrek. Voordat het seizoen begon, moesten we de honden trainen om te rennen, dus elke ochtend deden we aan hondensleeën. Het was een prettige routine, ondanks temperaturen die daalden tot -33°C, wat warme kleding vereiste! Als er geen toeristen waren, werkten we aan de renovatie van een huis dat bedoeld was om te worden verhuurd tijdens verblijven op de boerderij. Het was geweldig om het resultaat van ons werk te zien. We versierden ook het wintercafé met kerstdecoraties. Onze dagen eindigden meestal rond 16.30 uur.\nWeekends waren onze rustdagen, we genoten van wandelingen met de honden, langlaufen of sneeuwschoenwandelen.\nWe openden het wintercafé op sommige weekends om sneeuwscooterliefhebbers en andere toeristen te verwelkomen, waar ze konden genieten van koffie, een tunnbrödsrulle (een specialiteit van de boerderij: een soort wrap met kaas en rendierworst, lekker!), of gewoon een glas glögg (glühwein, een traditioneel Scandinavisch drankje) konden drinken.\nDeze ervaringen hebben ons in staat gesteld om een veelvoud aan kennis op te doen, zowel praktisch als persoonlijk. Backsjön Boerderij is een plek waar je je goed voelt. Carolina en Hasse zijn zeer gastvrije gastheren, altijd klaar om ons te helpen en goede tijden samen te delen.",
+      "Testimonials": {
+          "Helo": "Na het behalen van mijn masterdiploma in september 2023, besloot ik op avontuur te gaan om een nieuw land te ontdekken. Gepassioneerd door dieren, heeft deze ervaring me veel geleerd, door de natuur te verkennen en nieuwe mensen te ontmoeten. Ik vond dit avontuur geweldig en raad het aan aan iedereen.",
+          "Hippo": "Deze ervaring met hondensleeën bracht me in een wereld van avontuur en ontdekkingen. Een unieke ervaring, tussen de band met dieren en de verkenning van de Noordse landschappen, aan te raden aan alle avontuur liefhebbers.",
+          "Linard": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+      },
+      "contact": "U kunt contact met mij opnemen via e-mail op het volgende adres : "
+  },
+  "Language": {
+      "fr" : "Frans",
+      "en" : "Engels",
+      "sv" : "Zweeds",
+      "de" : "Duits",
+      "nl" : "Nederlands"
+  }
+}

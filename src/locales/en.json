@@ -1,0 +1,28 @@
+{
+  "Text": {
+      "Titles": {
+          "main": "Backsjön Farm Volunteering",
+          "menu": "Menu",
+          "accueil": "Home",
+          "introduction": "Introduction",
+          "experience": "Experience",
+          "testimonials": "Testimonials",
+          "contact": "Contact"
+      },
+      "introduction": "Volunteering at Backsjön Farm allows Carolina and Hasse to get help in managing their farm, projects, and activities. In return, travelers have the opportunity to experience Swedish life, learn about animals (with their 32 Huskies, 5 donkeys, and chickens), and nature while living memorable experiences! In winter, the farm offers essential activities such as dog sledding, ice fishing, and snowmobiling. In May-June, the farm hosts the Tulip Festival, providing a unique opportunity to observe tulip cultivation in Sweden, a fascinating challenge to see with your own eyes! These are experiences not to be missed during a stay in this beautiful country!",
+      "experience": "We arrived at Carolina and Hasse's on December 11, with already 30 centimeters of snow. The view with the frozen lake and the sunrise was simply stunning.\nOur routine usually started with coffee around 9 a.m., where we discussed the day's plans. Then, we had to take the donkeys out to their field, feed them, clean the stable, and feed the chickens. If tourists were scheduled, we prepared the sleds, cleaned the dog cages, and helped prepare the sled before departure. Before the season started, we had to train the dogs to run, so every morning we did dog sledding. It was a pleasant routine, despite temperatures dropping to -33°C, requiring warm clothes! When there were no tourists, we worked on renovating a house intended to be rented during farm stays. It was great to see the result of our work. We also decorated the winter café with Christmas decorations. Our days usually ended around 4:30 p.m.\nWeekends were our rest days, we enjoyed walks with the dogs, cross-country skiing, or snowshoeing.\nWe opened the winter café on some weekends to welcome snowmobile enthusiasts and other tourists, where they could enjoy coffee, savor a tunnbrödsrulle (a farm specialty: a kind of wrap with cheese and reindeer sausage, yum!), or simply sip a glass of glögg (mulled wine, a traditional Nordic drink).\nThese experiences allowed us to acquire a multitude of knowledge, both practical and personal. Backsjön Farm is a place where you feel good. Carolina and Hasse are very welcoming hosts, always ready to help us and share good times together.",
+      "Testimonials": {
+          "Helo": "After completing my master's degree in September 2023, I decided to embark on an adventure to discover a new country. Passionate about animals, this experience allowed me to learn a lot, exploring nature and meeting new people. I loved this adventure and recommend it to everyone.",
+          "Hippo": "This experience with dog sledding transported me into a world of adventure and discovery. A unique experience, between complicity with animals and exploration of Nordic landscapes, to recommend to all adventure enthusiasts.",
+          "Linard": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+      },
+      "contact": "You can contact me by email at the following address : "
+  },
+  "Language": {
+      "fr": "French",
+      "en": "English",
+      "sv": "Swedish",
+      "de": "German",
+      "nl": "Dutch"
+  }
+}

@@ -1,19 +1,6 @@
 <template>
     <div id="BackgroundWinter">
         <div class="canvas">
-            <b-container>
-    <b-row>
-        <b-col cols="auto">
-            <ButtonSideBar />
-        </b-col>
-        <b-col cols="auto" class="ml-auto">
-            <ButtonLang />
-        </b-col>
-    </b-row>
-</b-container>
-
-            <!-- <ButtonSideBar />
-            <ButtonLang /> -->
             <div class="stars" v-for="n in 3" :key="n">
                 <div class="star"></div>
             </div>
@@ -29,18 +16,6 @@
         </div>
     </div>
 </template>
-
-<script lang="ts">
-import ButtonSideBar from './ButtonSideBar.vue';
-import ButtonLang from './ButtonLang.vue';
-
-export default {
-    components: {
-        ButtonSideBar,
-        ButtonLang,
-    },
-}
-</script>
 
 <style scoped>
 @import "../assets/backgroundWinter.css";

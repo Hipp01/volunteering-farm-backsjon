@@ -1,5 +1,6 @@
 <template>
     <div id="HomeView">
+        <MenuBar />
         <SideBar />
         <BackgroundWinter />
         <div class="overlay">
@@ -14,6 +15,7 @@
 </template>
   
 <script>
+    import MenuBar from '@/components/MenuBar.vue';
     import SideBar from '@/components/SideBar.vue';
     import BackgroundWinter from '@/components/BackgroundWinter.vue';
     import HeaderView from '@/components/HeaderView.vue';
@@ -25,6 +27,7 @@
   
     export default {
         components: {
+            MenuBar,
             SideBar,
             BackgroundWinter,
             HeaderView,
@@ -38,5 +41,5 @@
 </script>
 
 <style scoped>
-@import "@/assets/styles.css";
+@import "../assets/styles.css";
 </style>

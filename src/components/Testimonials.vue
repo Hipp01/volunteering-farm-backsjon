@@ -1,6 +1,6 @@
 <template>
   <div id="Testimonials">
-    <h1 class="text-center">Témoignages</h1>
+    <h1 class="text-center">{{ $t("Text.Titles.testimonials")}}</h1>
     <div>
       <b-container class="testimonials">
         <b-row>
@@ -36,17 +36,17 @@ export default defineComponent({
       testimonials: [
         {
           name: 'Hippolyte Larzul',
-          testimonialText: 'Cette expérience avec les chiens de traîneau m\'a transporté dans un monde d\'aventure et de découvertes. Une expérience unique, entre complicité avec les animaux et exploration des paysages nordiques, à recommander à tous les passionnés d\'évasion.',
+          testimonialText: this.$t("Text.Testimonials.Hippo"),
           imageSrc: 'src/assets/images/testimonials/Hippo.png',
         },
         {
           name: 'Héloïse Cagnard',
-          testimonialText: 'lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
+          testimonialText: this.$t("Text.Testimonials.Helo"),
           imageSrc: 'src/assets/images/testimonials/Helo.jpg',
         },
         {
           name: 'Linard XXX',
-          testimonialText: 'lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
+          testimonialText: this.$t("Text.Testimonials.Linard"),
           imageSrc: 'src/assets/images/testimonials/Linard.jpg',
         },
       ]

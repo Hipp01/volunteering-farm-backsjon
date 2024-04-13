@@ -1,0 +1,28 @@
+{
+  "Text": {
+      "Titles": {
+          "main": "Freiwilligenarbeit auf dem Backsjön-Hof",
+          "menu": "Menü",
+          "accueil": "Startseite",
+          "introduction": "Einführung",
+          "experience": "Erfahrung",
+          "testimonials": "Referenzen",
+          "contact": "Kontakt"
+      },
+      "introduction": "Die Freiwilligenarbeit auf dem Backsjön-Hof ermöglicht es Carolina und Hasse, Hilfe bei der Verwaltung ihres Hofes, Projekte und Aktivitäten zu erhalten. Im Gegenzug haben Reisende die Möglichkeit, das schwedische Leben kennenzulernen, mehr über Tiere (mit ihren 32 Huskies, 5 Eseln und Hühnern) und die Natur zu erfahren und dabei unvergessliche Erlebnisse zu sammeln! Im Winter bietet der Hof wichtige Aktivitäten wie Hundeschlittenfahren, Eisfischen und Schneemobiltouren an. Im Mai-Juni veranstaltet der Hof das Tulpenfestival, das die einzigartige Gelegenheit bietet, den Tulpenanbau in Schweden zu beobachten, eine faszinierende Herausforderung, die man mit eigenen Augen sehen kann! Diese Erfahrungen sollten Sie bei einem Aufenthalt in diesem wunderschönen Land nicht verpassen!",
+      "experience": "Wir kamen am 11. Dezember bei Carolina und Hasse an, als bereits 30 Zentimeter Schnee lagen. Die Aussicht auf den zugefrorenen See und den Sonnenaufgang war einfach atemberaubend.\nUnsere Routine begann normalerweise gegen 9 Uhr mit Kaffee, bei dem wir die Pläne für den Tag besprachen. Dann mussten wir die Esel auf ihre Weide bringen, sie füttern, den Stall reinigen und die Hühner füttern. Wenn Touristen geplant waren, bereiteten wir die Schlitten vor, reinigten die Hundekäfige und halfen beim Vorbereiten des Schlittens vor der Abfahrt. Bevor die Saison begann, mussten wir die Hunde zum Laufen trainieren, also machten wir jeden Morgen Hundeschlittenfahren. Es war eine angenehme Routine, trotz Temperaturen von bis zu -33°C, die warme Kleidung erforderten! Wenn keine Touristen da waren, arbeiteten wir an der Renovierung eines Hauses, das während der Aufenthalte auf dem Bauernhof vermietet werden sollte. Es war großartig, das Ergebnis unserer Arbeit zu sehen. Wir dekorierten auch das Wintercafé mit Weihnachtsdekorationen. Unsere Tage endeten normalerweise gegen 16:30 Uhr.\nDie Wochenenden waren unsere Ruhetage, wir genossen Spaziergänge mit den Hunden, Langlaufen oder Schneeschuhwandern.\nAn einigen Wochenenden öffneten wir das Wintercafé, um Schneemobil-Enthusiasten und andere Touristen zu begrüßen, wo sie Kaffee genießen konnten, einen tunnbrödsrulle (eine Spezialität des Hofes: eine Art Wrap mit Käse und Rentierwurst, lecker!) oder einfach nur einen Glühwein (ein traditionelles nordisches Getränk) schlürfen konnten.\nDiese Erfahrungen ermöglichten es uns, eine Vielzahl von Kenntnissen zu erlangen, sowohl praktisch als auch persönlich. Der Backsjön-Hof ist ein Ort, an dem man sich wohl fühlt. Carolina und Hasse sind sehr gastfreundliche Gastgeber, immer bereit, uns zu helfen und gute Zeiten gemeinsam zu verbringen.",
+      "Testimonials": {
+          "Helo": "Nach Abschluss meines Masterstudiums im September 2023 beschloss ich, ein Abenteuer zu erleben, um ein neues Land zu entdecken. Diese Erfahrung als Tierliebhaber hat mir viel gebracht, indem ich die Natur erkundet und neue Menschen kennengelernt habe. Ich habe dieses Abenteuer geliebt und empfehle es jedem.",
+          "Hippo": "Diese Erfahrung mit dem Hundeschlittenfahren hat mich in eine Welt voller Abenteuer und Entdeckungen versetzt. Eine einzigartige Erfahrung, zwischen Verbundenheit mit Tieren und Erkundung der nordischen Landschaften, die allen Abenteuerliebhabern zu empfehlen ist.",
+          "Linard": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+      },
+      "contact": "Sie können mich per E-Mail unter folgender Adresse kontaktieren : "
+  },
+    "Language": {
+        "fr" : "Französisch",
+        "en" : "Englisch",
+        "sv" : "Schwedisch",
+        "de" : "Deutsch",
+        "nl" : "Niederländisch"
+    }
+}

@@ -1,7 +1,7 @@
 <template>
     <div id="ContactUs">
-        <h2 class="text-center">Contact</h2>
-        <p>Vous pouvez me contacter par email à l'adresse suivante : 
+        <h2 class="text-center">{{ $t("Text.Titles.contact")}}</h2>
+        <p>{{ $t("Text.contact") }}
             <a href="mailto:hippolarzul@gmail.com">hippolarzul@gmail.com</a>
         </p>
     </div>
