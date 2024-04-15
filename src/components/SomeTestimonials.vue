@@ -3,13 +3,8 @@
     <h1 class="text-center">{{ $t("Text.Titles.testimonials")}}</h1>
     <div>
       <b-container class="testimonials">
-        <b-row>
-          <b-col v-for="(testimonial, index) in testimonials"
-              :key="index"
-              :cols="(index === testimonials.length - 1 && testimonials.length % 2 !== 0) ? 12 : 6"
-              :md="(index % 2 === 0) ? 6 : null"
-              class="my-3"
-              :class="{ 'offset-md-3': index === testimonials.length - 1 && testimonials.length % 2 !== 0 }"
+        <b-row class="justify-content-center align-items-center g-3">
+          <b-col class="col-lg-6 col-12" v-for="testimonial in testimonials" :key="testimonial.name"
             >
             <OneTestimonial
         :name="testimonial.name"

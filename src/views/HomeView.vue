@@ -1,13 +1,16 @@
 <template>
     <div id="HomeView">
-        <MenuBar />
+        <MenuBar :isChecked="isChecked" />
         <SideBar />
-        <BackgroundWinter />
+        <div id="background">
+            <BackgroundWinter v-if="!isChecked" />
+            <BackgroundSummer v-else />
+        </div>
         <div class="overlay">
             <HeaderView />
-            <Introduction />
-            <Experience />
-            <Testimonials />
+            <IntroductionText />
+            <OurExperience />
+            <SomeTestimonials />
             <ContactUs />
             <FooterView />
         </div>
@@ -15,25 +18,32 @@
 </template>
   
 <script>
-    import MenuBar from '@/components/MenuBar.vue';
-    import SideBar from '@/components/SideBar.vue';
-    import BackgroundWinter from '@/components/BackgroundWinter.vue';
+    import MenuBar from '@/components/menu/MenuBar.vue';
+    import SideBar from '@/components/menu/SideBar.vue';
+    import BackgroundWinter from '@/components/backgrounds/BackgroundWinter.vue';
+    import BackgroundSummer from '@/components/backgrounds/BackgroundSummer.vue';
     import HeaderView from '@/components/HeaderView.vue';
-    import Introduction from '@/components/Introduction.vue';
-    import Experience from '@/components/Experience.vue';
-    import Testimonials from '@/components/Testimonials.vue';
+    import IntroductionText from '@/components/IntroductionText.vue';
+    import OurExperience from '@/components/OurExperience.vue';
+    import SomeTestimonials from '@/components/SomeTestimonials.vue';
     import ContactUs from '@/components/ContactUs.vue';
     import FooterView from '@/components/FooterView.vue';
   
     export default {
+        data() {
+            return {
+                isChecked: false
+            };
+        },
         components: {
             MenuBar,
             SideBar,
             BackgroundWinter,
+            BackgroundSummer,
             HeaderView,
-            Introduction,
-            Experience,
-            Testimonials,
+            IntroductionText,
+            OurExperience,
+            SomeTestimonials,
             ContactUs,
             FooterView,
         },
