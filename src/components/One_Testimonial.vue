@@ -3,7 +3,7 @@
     <div class="aurora-inner">
       <b-container class="testimonials">
         <b-row class="py-3">
-          <b-col cols="3" align-self="center" class="ms-2">
+          <b-col cols="3" class="ms-2">
             <img :src="imageSrc" :alt="name.split(' ')[0]" class="img-fluid rounded-circle border-0 night">
           </b-col>
           <b-col>
@@ -42,6 +42,7 @@ export default defineComponent({
     background: linear-gradient(45deg, #32a6ff 0%, #3f6fff 49%, #54f585c4 82%);
     background-size: 200%;
     animation: aurora 10s infinite;
+    height: 100%;
 }
 
 .aurora-inner {
