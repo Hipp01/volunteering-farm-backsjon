@@ -1,6 +1,6 @@
 <template>
     <div id="ButtonChangeTheme">
-      <input id="checkbox_toggle" type="checkbox" class="check" @change="$emit('toggle')">
+      <input id="checkbox_toggle" type="checkbox" class="check" @change="$emit('toggle', $event.target.checked)">
       <div class="checkbox">
         <label class="slide" for="checkbox_toggle">
           <label class="toggle" for="checkbox_toggle"></label>

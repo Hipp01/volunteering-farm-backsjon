@@ -1,5 +1,5 @@
 <template>
-    <div :class="{ 'transparent': isTransparent, 'dark': !isTransparent }" id="MenuBar">
+    <div id="MenuBar">
       <b-container class="mt-2">
         <b-row>
           <b-col>
@@ -17,61 +17,29 @@
   </template>
   
   <script lang="ts">
-  import { defineComponent, ref, onMounted, onUnmounted } from 'vue';
   import ButtonSideBar from './ButtonSideBar.vue';
   import ButtonLang from './ButtonLang.vue';
   import ButtonChangeTheme from './ButtonChangeTheme.vue';
   
-  export default defineComponent({
-    data() {
-      return {
-        isChecked: false
-    };
-    },
+  export default {
     methods: {
-      toggleBackground() {
-        this.isChecked = !this.isChecked;
+      toggleBackground(toggleState) {
+        this.$emit('menuBarToggle', toggleState);
       }
     },
     components: {
       ButtonSideBar,
       ButtonLang,
       ButtonChangeTheme,
-    },
-    setup() {
-      const isTransparent = ref(true);
-  
-      const handleScroll = () => {
-        isTransparent.value = window.scrollY === 0;
-      };
-  
-      onMounted(() => {
-        window.addEventListener('scroll', handleScroll);
-      });
-  
-      onUnmounted(() => {
-        window.removeEventListener('scroll', handleScroll);
-      });
-  
-      return { isTransparent };
-    },
-  });
+    }
+  };
   </script>
   
-  <style scoped>
+<style scoped>
   #MenuBar {
-    position: fixed;
+    position: absolute;
     z-index: 10;
     width: 100%;
-    transition: background-color 0.3s ease;
   }
-  
-  .transparent {
-    background-color: rgba(0, 0, 0, 0);
-  }
-  
-  .dark {
-    background-color: rgba(0, 0, 0, 0.8);
-  }
-  </style>
+</style>
   

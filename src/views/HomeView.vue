@@ -1,6 +1,6 @@
 <template>
     <div id="HomeView">
-        <MenuBar :isChecked="isChecked" />
+        <MenuBar @menuBarToggle="handleMenuBarToggle" />
         <SideBar />
         <div id="background">
             <BackgroundWinter v-if="!isChecked" />
@@ -47,6 +47,11 @@
             ContactUs,
             FooterView,
         },
+        methods: {
+            handleMenuBarToggle(toggleState) {
+            this.isChecked = toggleState;
+            }
+        }
     }
 </script>
 
