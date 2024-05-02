@@ -7,6 +7,8 @@ import 'bootstrap-vue/dist/bootstrap-vue.css';
 import BootstrapVue3 from 'bootstrap-vue-3';
 import { BootstrapIconsPlugin } from "bootstrap-icons-vue";
 import FlagIcon from 'vue-flag-icon';
+import VCalendar from 'v-calendar';
+import 'v-calendar/style.css';
 
 import frText from './locales/fr.json';
 import enText from './locales/en.json';
@@ -32,6 +34,7 @@ app.use(router);
 app.use(BootstrapVue3);
 app.use(BootstrapIconsPlugin);
 app.use(FlagIcon);
-app.use(i18n); 
+app.use(i18n);
+app.use(VCalendar, {})
 
 app.mount('#app');

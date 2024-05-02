@@ -2,7 +2,7 @@
   <div id="HeaderView">
     <header>
       <!-- <router-link to="/">Accueil</router-link> -->
-      <h1 class="text-center" style="color:#9EE4D9">
+      <h1 class="text-center">
         <img src="@\assets\logo.svg" alt="Logo" class="logo" />
         {{ $t("Text.Titles.main") }}
         <img src="@\assets\logo.svg" alt="Logo" class="logo" />

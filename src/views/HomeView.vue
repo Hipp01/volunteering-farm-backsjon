@@ -11,6 +11,7 @@
             <IntroductionText />
             <OurExperience />
             <SomeTestimonials />
+            <ApplicationForm />
             <ContactUs />
             <FooterView />
         </div>
@@ -26,6 +27,7 @@
     import IntroductionText from '@/components/IntroductionText.vue';
     import OurExperience from '@/components/OurExperience.vue';
     import SomeTestimonials from '@/components/SomeTestimonials.vue';
+    import ApplicationForm from '../components/ApplicationForm.vue';
     import ContactUs from '@/components/ContactUs.vue';
     import FooterView from '@/components/FooterView.vue';
   
@@ -44,6 +46,7 @@
             IntroductionText,
             OurExperience,
             SomeTestimonials,
+            ApplicationForm,
             ContactUs,
             FooterView,
         },
