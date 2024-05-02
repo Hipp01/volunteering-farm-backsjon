@@ -16,13 +16,17 @@ export default {
       'src/assets/images/tulips/orange.png',
       'src/assets/images/tulips/pink.png',
       'src/assets/images/tulips/red.png',
+      'src/assets/images/tulips/blue.png',
+      'src/assets/images/tulips/purple.png',
+      'src/assets/images/tulips/light-orange.png',
+      'src/assets/images/tulips/white.png',
     ];
 
     const randomImages = ref([]);
 
     for(let i = 0; i < 80; i++) { // Adjust this value to change the number of images
       const randomImageSrc = images[Math.floor(Math.random() * images.length)];
-      const randomRotation = Math.floor(Math.random() * 121) - 60; // Generate a random number between -60 and 60
+      const randomRotation = Math.floor(Math.random() * 80) - 40; // Generate a random number between -60 and 60
       randomImages.value.push({ src: randomImageSrc, rotation: randomRotation });
     }
 
