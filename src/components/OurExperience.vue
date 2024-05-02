@@ -1,11 +1,10 @@
 <template>
-  <div id="OurExperience">
-    <h1 class="text-center">{{ $t("Text.Titles.experience") }}</h1>
+  <div id="OurExperience" class="mb-5">
+    <h1 class="text-center mb-5">{{ $t("Text.Titles.experience") }}</h1>
     <div>
-      <b-container class="testimonials mt-5">
+      <b-container class="testimonials">
         <b-row>
-          <b-col cols="1"></b-col>
-          <b-col cols="4">
+          <b-col cols="5">
             <div id="carouselIndicators" class="carousel slide">
               <div class="carousel-inner same-height">
                 <div class="carousel-item active">
